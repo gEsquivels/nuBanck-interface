@@ -1,5 +1,5 @@
 import React from 'react';
-import QRCode from 'react-native-qrcode';
+import QRCode from 'react-native-qrcode-svg';
 import Icon from 'react-native-vector-icons/MaterialIcons';
 import {Container, Code, Nav, NavItem, NavText, SignOutButton, SignOutButtonText} from './styles';
 
@@ -13,11 +13,10 @@ export default function Menu({translateY}){
         }}
         >
             <Code>
-                <QRCode 
-                    value="www.portaldaindustria.com.br/senai"
-                    size = {80}
-                    fgColor = "#fff"
-                    bgColor = "#8B10AE"
+                <QRCode
+                    value="https://github.com/xZeroW/Nubank_Clone"
+                    logoSize={80}
+                    logoBackgroundColor='transparent'
                 />
             </Code>
             <Nav>
@@ -30,7 +29,7 @@ export default function Menu({translateY}){
                     <NavText>Perfil</NavText>
                 </NavItem>
                 <NavItem>
-                    <Icon name="setting-outline" size={20} color="#FFF"></Icon>
+                    <Icon name="settings" size={20} color="#FFF"></Icon>
                     <NavText>Configurar Conta</NavText>
                 </NavItem>
                 <NavItem>

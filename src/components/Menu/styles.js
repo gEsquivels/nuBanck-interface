@@ -30,7 +30,7 @@ export const SignOutButton = styled.TouchableOpacity`
     border-color: rgba(255,255,255,0.8);
     border-radius: 4px;
     justify-content: center;
-    alignt-items: center;
+    align-items: center;
     padding: 12px;
     margin-top: 15px;
 `;
