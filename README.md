@@ -25,7 +25,7 @@ Recriando interface do Nubank. Disciplina de Mobile Senai
 
 Foto | Nome | GitHub | Likedin | E-mail
 ---- | ---- | ------ | ------- | ------
-Guilherme Esquivel dos Santos | [Rafael Levi](https://github.com/gEsquivels) | [Linkedin](linkedin.com/in/guilherme-esquivel-22426a197) | guilhermesantos1507@gmail.com
+Guilherme Esquivel dos Santos | [Guilherme Esquivel](https://github.com/gEsquivels) | [Linkedin](linkedin.com/in/guilherme-esquivel-22426a197) | guilhermesantos1507@gmail.com
 
 ## :computer: Tecnologias
 
