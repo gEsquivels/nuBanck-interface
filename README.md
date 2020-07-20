@@ -23,8 +23,8 @@ Recriando interface do Nubank. Disciplina de Mobile Senai
 
 ## :man_technologist: Autor
 
-Foto | Nome | GitHub | Likedin | E-mail
----- | ---- | ------ | ------- | ------
+Nome | GitHub | Likedin | E-mail
+---- | ------ | ------- | ------
 Guilherme Esquivel dos Santos | [Guilherme Esquivel](https://github.com/gEsquivels) | [Linkedin](linkedin.com/in/guilherme-esquivel-22426a197) | guilhermesantos1507@gmail.com
 
 ## :computer: Tecnologias
